@@ -1,0 +1,4 @@
+customtkinter
+requests
+matplotlib
+pyperclip
