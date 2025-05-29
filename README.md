@@ -7,7 +7,7 @@ A **modern, GUI-based unit and currency converter** built with **Python, Tkinter
 - 📜 **Formula Display & Clipboard Copy**  
 - 🎨 **Dark Mode with Modern UI**  
 
-
+![Convertor Screenshot](assets/convertor.png)
 ---
 
 ## 🎯 **Features**
